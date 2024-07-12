@@ -4,7 +4,13 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--- snake -->
 <!--horizontal divider(gradiant)-->
-![Snake animation](https://raw.githubusercontent.com/Rijurajx/Rijurajx/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rijurajx/Rijurajx/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 - 🔭 I’m currently working on [Kawatch(And anti money laundering app)](https://github.com/Priyosmita/Kawatch)
