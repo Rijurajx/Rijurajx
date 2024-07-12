@@ -4,9 +4,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <!--- snake -->
 <!--horizontal divider(gradiant)-->
-<div>
-![Snake animation](https://github.com/Rijurajx/Rijurajx/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://raw.githubusercontent.com/Rijurajx/Rijurajx/output/github-contribution-grid-snake-dark.svg)
 
 
 - 🔭 I’m currently working on [Kawatch(And anti money laundering app)](https://github.com/Priyosmita/Kawatch)
