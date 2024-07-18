@@ -27,9 +27,7 @@
 
 ### GithubStats
 <div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rijurajx&show_icons=true&locale=en&layout=compact&bg_color=2f2f2f&text_color=ffffff" alt="rijurajx" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rijurajx&show_icons=true&locale=en&bg_color=2f2f2f&text_color=ffffff" alt="rijurajx" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rijurajx&background=2f2f2f&ring=ff6347&fire=ff4500&currStreakNum=1e90ff&sideNums=32cd32&sideLabels=ffa500&dates=adff2f&currStreakLabel=ffd700" alt="rijurajx" />
 </div>
 
